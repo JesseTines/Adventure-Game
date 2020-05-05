@@ -1,0 +1,59 @@
+C:\Users\Home\Desktop\program\Explorable Areas\bin\Debug\netcoreapp3.1\Explorable Areas.exe
+C:\Users\Home\Desktop\program\Explorable Areas\bin\Debug\netcoreapp3.1\Explorable Areas.deps.json
+C:\Users\Home\Desktop\program\Explorable Areas\bin\Debug\netcoreapp3.1\Explorable Areas.runtimeconfig.json
+C:\Users\Home\Desktop\program\Explorable Areas\bin\Debug\netcoreapp3.1\Explorable Areas.runtimeconfig.dev.json
+C:\Users\Home\Desktop\program\Explorable Areas\bin\Debug\netcoreapp3.1\Explorable Areas.dll
+C:\Users\Home\Desktop\program\Explorable Areas\bin\Debug\netcoreapp3.1\Explorable Areas.pdb
+C:\Users\Home\Desktop\program\Explorable Areas\obj\Debug\netcoreapp3.1\Explorable Areas.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\program\Explorable Areas\obj\Debug\netcoreapp3.1\Explorable Areas.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\program\Explorable Areas\obj\Debug\netcoreapp3.1\Explorable Areas.AssemblyInfo.cs
+C:\Users\Home\Desktop\program\Explorable Areas\obj\Debug\netcoreapp3.1\Explorable Areas.dll
+C:\Users\Home\Desktop\program\Explorable Areas\obj\Debug\netcoreapp3.1\Explorable Areas.pdb
+C:\Users\Home\Desktop\program\Milestone 2 Code\bin\Debug\netcoreapp3.1\Explorable Areas.exe
+C:\Users\Home\Desktop\program\Milestone 2 Code\bin\Debug\netcoreapp3.1\Explorable Areas.deps.json
+C:\Users\Home\Desktop\program\Milestone 2 Code\bin\Debug\netcoreapp3.1\Explorable Areas.runtimeconfig.json
+C:\Users\Home\Desktop\program\Milestone 2 Code\bin\Debug\netcoreapp3.1\Explorable Areas.runtimeconfig.dev.json
+C:\Users\Home\Desktop\program\Milestone 2 Code\bin\Debug\netcoreapp3.1\Explorable Areas.dll
+C:\Users\Home\Desktop\program\Milestone 2 Code\bin\Debug\netcoreapp3.1\Explorable Areas.pdb
+C:\Users\Home\Desktop\program\Milestone 2 Code\obj\Debug\netcoreapp3.1\Explorable Areas.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\program\Milestone 2 Code\obj\Debug\netcoreapp3.1\Explorable Areas.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\program\Milestone 2 Code\obj\Debug\netcoreapp3.1\Explorable Areas.AssemblyInfo.cs
+C:\Users\Home\Desktop\program\Milestone 2 Code\obj\Debug\netcoreapp3.1\Explorable Areas.dll
+C:\Users\Home\Desktop\program\Milestone 2 Code\obj\Debug\netcoreapp3.1\Explorable Areas.pdb
+C:\Users\Home\Desktop\program\Milestone 3 Code\bin\Debug\netcoreapp3.1\Explorable Areas.exe
+C:\Users\Home\Desktop\program\Milestone 3 Code\bin\Debug\netcoreapp3.1\Explorable Areas.deps.json
+C:\Users\Home\Desktop\program\Milestone 3 Code\bin\Debug\netcoreapp3.1\Explorable Areas.runtimeconfig.json
+C:\Users\Home\Desktop\program\Milestone 3 Code\bin\Debug\netcoreapp3.1\Explorable Areas.runtimeconfig.dev.json
+C:\Users\Home\Desktop\program\Milestone 3 Code\bin\Debug\netcoreapp3.1\Explorable Areas.dll
+C:\Users\Home\Desktop\program\Milestone 3 Code\bin\Debug\netcoreapp3.1\Explorable Areas.pdb
+C:\Users\Home\Desktop\program\Milestone 3 Code\obj\Debug\netcoreapp3.1\Explorable Areas.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\program\Milestone 3 Code\obj\Debug\netcoreapp3.1\Explorable Areas.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\program\Milestone 3 Code\obj\Debug\netcoreapp3.1\Explorable Areas.AssemblyInfo.cs
+C:\Users\Home\Desktop\program\Milestone 3 Code\obj\Debug\netcoreapp3.1\Explorable Areas.dll
+C:\Users\Home\Desktop\program\Milestone 3 Code\obj\Debug\netcoreapp3.1\Explorable Areas.pdb
+C:\Users\Home\Desktop\program\Explorable Maze Assignment\bin\Debug\netcoreapp3.1\Explorable Areas.exe
+C:\Users\Home\Desktop\program\Explorable Maze Assignment\bin\Debug\netcoreapp3.1\Explorable Areas.deps.json
+C:\Users\Home\Desktop\program\Explorable Maze Assignment\bin\Debug\netcoreapp3.1\Explorable Areas.runtimeconfig.json
+C:\Users\Home\Desktop\program\Explorable Maze Assignment\bin\Debug\netcoreapp3.1\Explorable Areas.runtimeconfig.dev.json
+C:\Users\Home\Desktop\program\Explorable Maze Assignment\bin\Debug\netcoreapp3.1\Explorable Areas.dll
+C:\Users\Home\Desktop\program\Explorable Maze Assignment\bin\Debug\netcoreapp3.1\Explorable Areas.pdb
+C:\Users\Home\Desktop\program\Explorable Maze Assignment\obj\Debug\netcoreapp3.1\Explorable Areas.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\program\Explorable Maze Assignment\obj\Debug\netcoreapp3.1\Explorable Areas.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\program\Explorable Maze Assignment\obj\Debug\netcoreapp3.1\Explorable Areas.AssemblyInfo.cs
+C:\Users\Home\Desktop\program\Explorable Maze Assignment\obj\Debug\netcoreapp3.1\Explorable Areas.dll
+C:\Users\Home\Desktop\program\Explorable Maze Assignment\obj\Debug\netcoreapp3.1\Explorable Areas.pdb
+C:\Users\Home\Desktop\program\Explorable Maze Assignment\bin\Debug\netcoreapp3.1\TheCave.txt
+C:\Users\Home\Desktop\program\Explorable Maze Assignment\bin\Debug\netcoreapp3.1\Kingdomarea.txt
+C:\Users\Home\Desktop\program\Milestone 4 Code\bin\Debug\netcoreapp3.1\Explorable Areas.exe
+C:\Users\Home\Desktop\program\Milestone 4 Code\bin\Debug\netcoreapp3.1\Kingdomarea.txt
+C:\Users\Home\Desktop\program\Milestone 4 Code\bin\Debug\netcoreapp3.1\TheCave.txt
+C:\Users\Home\Desktop\program\Milestone 4 Code\bin\Debug\netcoreapp3.1\Explorable Areas.deps.json
+C:\Users\Home\Desktop\program\Milestone 4 Code\bin\Debug\netcoreapp3.1\Explorable Areas.runtimeconfig.json
+C:\Users\Home\Desktop\program\Milestone 4 Code\bin\Debug\netcoreapp3.1\Explorable Areas.runtimeconfig.dev.json
+C:\Users\Home\Desktop\program\Milestone 4 Code\bin\Debug\netcoreapp3.1\Explorable Areas.dll
+C:\Users\Home\Desktop\program\Milestone 4 Code\bin\Debug\netcoreapp3.1\Explorable Areas.pdb
+C:\Users\Home\Desktop\program\Milestone 4 Code\obj\Debug\netcoreapp3.1\Explorable Areas.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\program\Milestone 4 Code\obj\Debug\netcoreapp3.1\Explorable Areas.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\program\Milestone 4 Code\obj\Debug\netcoreapp3.1\Explorable Areas.AssemblyInfo.cs
+C:\Users\Home\Desktop\program\Milestone 4 Code\obj\Debug\netcoreapp3.1\Explorable Areas.dll
+C:\Users\Home\Desktop\program\Milestone 4 Code\obj\Debug\netcoreapp3.1\Explorable Areas.pdb
